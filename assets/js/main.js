@@ -58,7 +58,6 @@ sr.reveal('.skills__data, .work__img, .contact__input', { interval: 200 });
 
 
 const texts = [
-    "Web Developer",
     "Frontend Developer",
     "UI/UX Enthusiast"
 ];
@@ -93,3 +92,4 @@ window.addEventListener("load", () => {
     const loader = document.getElementById("loader");
     loader.classList.add("hidden");
 });
+
